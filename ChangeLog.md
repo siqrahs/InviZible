@@ -1508,3 +1508,13 @@
 * Updated Tor Snowflake obfuscator to version 2.14.0.
 * Updated Tor default bridges.
 * Fixes and optimizations.
+
+**InviZible Pro stable 7.5.0**
+* Updated DNSCrypt to version 2.1.16.
+* Updated Tor to version 4.9.11.
+* Updated Purple I2P to version 2.60.0.
+* Updated Tor obfuscators.
+* Added support for DNSTT Tor bridges.
+* Reduced startup time after restarting the phone.
+* Updated translations.
+* Fixes and optimizations.
